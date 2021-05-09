@@ -1,3 +1,7 @@
+<p align="center" width="100%">
+    <a href="https://ibb.co/VNpxZY2"><img src="https://i.ibb.co/kQ2X3FX/Baileys-Cybeer-DRAFT2.png" alt="Baileys-CyBeerFactory" border="0"></a>
+</p>
+
 # Baileys - Typescript/Javascript WhatsApp Web API
  
  Baileys does not require Selenium or any other browser to be interface with WhatsApp Web, it does so directly using a **WebSocket**. Not running Selenium or Chromimum saves you like **half a gig** of ram :/ 
